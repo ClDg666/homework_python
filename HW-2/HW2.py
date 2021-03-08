@@ -18,3 +18,5 @@ elif even == 1:
         i += 2
     my_list.append(last_element)
     print(my_list)
+
+    
