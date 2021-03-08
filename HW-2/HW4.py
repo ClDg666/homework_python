@@ -6,3 +6,4 @@ for word in list_string:
     # for n in length_string:
         print(str(n) + ' ' + word[:10])
         n += 1
+        
